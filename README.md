@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=170&section=header&text=%D0%97%D0%B8%D0%B3%D0%B0%D0%BD%D1%88%D0%B8%D0%BD%20%D0%A8%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=ML%20%C2%B7%20Data%20Science%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=58" alt="banner">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=ML+%2F+Data+Science+%2F+CV;%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82+%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D0%B0+%C2%AB%D0%A2%D0%BE%D1%87%D0%BA%D0%B0+%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8%C2%BB;LLM+%C2%B7+RAG+%C2%B7+Embeddings;%D0%9F%D0%B8%D1%88%D1%83+%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B+ML+%D1%81+%D0%BD%D1%83%D0%BB%D1%8F" alt="typing">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=150&section=header&text=%D0%97%D0%B8%D0%B3%D0%B0%D0%BD%D1%88%D0%B8%D0%BD%20%D0%A8%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=ML%20%C2%B7%20Data%20Science%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=52" alt="banner">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&height=36&lines=ML+%2F+Data+Science+%2F+CV;%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82+%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D0%B0+%C2%AB%D0%A2%D0%BE%D1%87%D0%BA%D0%B0+%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8%C2%BB;LLM+%C2%B7+RAG+%C2%B7+Embeddings;%D0%9F%D0%B8%D1%88%D1%83+%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B+ML+%D1%81+%D0%BD%D1%83%D0%BB%D1%8F" alt="typing">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
